@@ -1,0 +1,362 @@
+[
+  {
+    "siteId": "SITE-003",
+    "facility": "Sundargarh Steel Plant",
+    "type": "Industrial",
+    "state": "Odisha",
+    "activeDays": 50,
+    "detections": 43,
+    "currentStatus": "Persistent Thermal Source",
+    "lastObserved": "2026-09-27T14:11:00+05:30"
+  },
+  {
+    "siteId": "SITE-006",
+    "facility": "—",
+    "type": "Natural",
+    "state": "Odisha",
+    "activeDays": 49,
+    "detections": 189,
+    "currentStatus": "Recorded",
+    "lastObserved": "2026-09-28T07:45:00+05:30"
+  },
+  {
+    "siteId": "SITE-009",
+    "facility": "Angul Thermal Power Station",
+    "type": "Industrial",
+    "state": "Odisha",
+    "activeDays": 34,
+    "detections": 75,
+    "currentStatus": "Persistent Thermal Source",
+    "lastObserved": "2026-09-28T14:09:00+05:30"
+  },
+  {
+    "siteId": "SITE-011",
+    "facility": "—",
+    "type": "Unknown",
+    "state": "Uttar Pradesh",
+    "activeDays": 72,
+    "detections": 69,
+    "currentStatus": "Analyst Review",
+    "lastObserved": "2026-09-26T13:42:00+05:30"
+  },
+  {
+    "siteId": "SITE-014",
+    "facility": "—",
+    "type": "Natural",
+    "state": "Madhya Pradesh",
+    "activeDays": 43,
+    "detections": 171,
+    "currentStatus": "Alert",
+    "lastObserved": "2026-09-26T08:47:00+05:30"
+  },
+  {
+    "siteId": "SITE-017",
+    "facility": "Jajpur Refinery Complex",
+    "type": "Industrial",
+    "state": "Odisha",
+    "activeDays": 81,
+    "detections": 23,
+    "currentStatus": "Persistent Thermal Source",
+    "lastObserved": "2026-09-29T13:05:00+05:30"
+  },
+  {
+    "siteId": "SITE-019",
+    "facility": "—",
+    "type": "Natural",
+    "state": "Madhya Pradesh",
+    "activeDays": 45,
+    "detections": 54,
+    "currentStatus": "Recorded",
+    "lastObserved": "2026-09-27T10:56:00+05:30"
+  },
+  {
+    "siteId": "SITE-022",
+    "facility": "—",
+    "type": "Natural",
+    "state": "Telangana",
+    "activeDays": 91,
+    "detections": 89,
+    "currentStatus": "Recorded",
+    "lastObserved": "2026-09-27T06:49:00+05:30"
+  },
+  {
+    "siteId": "SITE-025",
+    "facility": "Bokaro Cement Works",
+    "type": "Industrial",
+    "state": "Jharkhand",
+    "activeDays": 62,
+    "detections": 219,
+    "currentStatus": "Persistent Thermal Source",
+    "lastObserved": "2026-09-27T20:41:00+05:30"
+  },
+  {
+    "siteId": "SITE-028",
+    "facility": "Dhanbad Chemical Complex",
+    "type": "Industrial",
+    "state": "Jharkhand",
+    "activeDays": 31,
+    "detections": 116,
+    "currentStatus": "Persistent Thermal Source",
+    "lastObserved": "2026-09-28T07:39:00+05:30"
+  },
+  {
+    "siteId": "SITE-031",
+    "facility": "—",
+    "type": "Natural",
+    "state": "Andhra Pradesh",
+    "activeDays": 54,
+    "detections": 28,
+    "currentStatus": "Alert",
+    "lastObserved": "2026-09-26T18:41:00+05:30"
+  },
+  {
+    "siteId": "SITE-034",
+    "facility": "—",
+    "type": "Natural",
+    "state": "Karnataka",
+    "activeDays": 63,
+    "detections": 143,
+    "currentStatus": "Recorded",
+    "lastObserved": "2026-09-27T13:32:00+05:30"
+  },
+  {
+    "siteId": "SITE-036",
+    "facility": "—",
+    "type": "Unknown",
+    "state": "Bihar",
+    "activeDays": 61,
+    "detections": 142,
+    "currentStatus": "Unverified Source",
+    "lastObserved": "2026-09-28T08:50:00+05:30"
+  },
+  {
+    "siteId": "SITE-039",
+    "facility": "—",
+    "type": "Unknown",
+    "state": "Odisha",
+    "activeDays": 35,
+    "detections": 9,
+    "currentStatus": "Analyst Review",
+    "lastObserved": "2026-09-27T20:42:00+05:30"
+  },
+  {
+    "siteId": "SITE-042",
+    "facility": "—",
+    "type": "Natural",
+    "state": "Maharashtra",
+    "activeDays": 8,
+    "detections": 92,
+    "currentStatus": "Recorded",
+    "lastObserved": "2026-09-27T16:55:00+05:30"
+  },
+  {
+    "siteId": "SITE-044",
+    "facility": "—",
+    "type": "Natural",
+    "state": "Chhattisgarh",
+    "activeDays": 5,
+    "detections": 90,
+    "currentStatus": "Recorded",
+    "lastObserved": "2026-09-27T15:26:00+05:30"
+  },
+  {
+    "siteId": "SITE-047",
+    "facility": "Durg Coal Handling Plant",
+    "type": "Industrial",
+    "state": "Chhattisgarh",
+    "activeDays": 88,
+    "detections": 100,
+    "currentStatus": "Persistent Thermal Source",
+    "lastObserved": "2026-09-27T08:54:00+05:30"
+  },
+  {
+    "siteId": "SITE-049",
+    "facility": "—",
+    "type": "Unknown",
+    "state": "Jharkhand",
+    "activeDays": 92,
+    "detections": 175,
+    "currentStatus": "Analyst Review",
+    "lastObserved": "2026-09-29T15:40:00+05:30"
+  },
+  {
+    "siteId": "SITE-051",
+    "facility": "Raipur Steel Plant",
+    "type": "Industrial",
+    "state": "Chhattisgarh",
+    "activeDays": 22,
+    "detections": 121,
+    "currentStatus": "Industrial Fire",
+    "lastObserved": "2026-09-27T17:04:00+05:30"
+  },
+  {
+    "siteId": "SITE-054",
+    "facility": "—",
+    "type": "Natural",
+    "state": "West Bengal",
+    "activeDays": 87,
+    "detections": 161,
+    "currentStatus": "Recorded",
+    "lastObserved": "2026-09-26T18:05:00+05:30"
+  },
+  {
+    "siteId": "SITE-057",
+    "facility": "—",
+    "type": "Natural",
+    "state": "Gujarat",
+    "activeDays": 37,
+    "detections": 122,
+    "currentStatus": "Recorded",
+    "lastObserved": "2026-09-26T13:46:00+05:30"
+  },
+  {
+    "siteId": "SITE-058",
+    "facility": "Durgapur Thermal Power Station",
+    "type": "Industrial",
+    "state": "West Bengal",
+    "activeDays": 82,
+    "detections": 66,
+    "currentStatus": "Persistent Thermal Source",
+    "lastObserved": "2026-09-29T10:42:00+05:30"
+  },
+  {
+    "siteId": "SITE-061",
+    "facility": "—",
+    "type": "Unknown",
+    "state": "Chhattisgarh",
+    "activeDays": 32,
+    "detections": 45,
+    "currentStatus": "Analyst Review",
+    "lastObserved": "2026-09-26T07:27:00+05:30"
+  },
+  {
+    "siteId": "SITE-063",
+    "facility": "Asansol Refinery Complex",
+    "type": "Industrial",
+    "state": "West Bengal",
+    "activeDays": 38,
+    "detections": 111,
+    "currentStatus": "Industrial Fire",
+    "lastObserved": "2026-09-26T09:43:00+05:30"
+  },
+  {
+    "siteId": "SITE-065",
+    "facility": "—",
+    "type": "Unknown",
+    "state": "Maharashtra",
+    "activeDays": 10,
+    "detections": 138,
+    "currentStatus": "Analyst Review",
+    "lastObserved": "2026-09-27T16:50:00+05:30"
+  },
+  {
+    "siteId": "SITE-067",
+    "facility": "—",
+    "type": "Natural",
+    "state": "Jharkhand",
+    "activeDays": 89,
+    "detections": 167,
+    "currentStatus": "Recorded",
+    "lastObserved": "2026-09-26T07:24:00+05:30"
+  },
+  {
+    "siteId": "SITE-070",
+    "facility": "Chandrapur Cement Works",
+    "type": "Industrial",
+    "state": "Maharashtra",
+    "activeDays": 23,
+    "detections": 149,
+    "currentStatus": "Persistent Thermal Source",
+    "lastObserved": "2026-09-26T18:45:00+05:30"
+  },
+  {
+    "siteId": "SITE-073",
+    "facility": "—",
+    "type": "Unknown",
+    "state": "Karnataka",
+    "activeDays": 29,
+    "detections": 26,
+    "currentStatus": "Analyst Review",
+    "lastObserved": "2026-09-28T08:20:00+05:30"
+  },
+  {
+    "siteId": "SITE-075",
+    "facility": "Bharuch Chemical Complex",
+    "type": "Industrial",
+    "state": "Gujarat",
+    "activeDays": 79,
+    "detections": 129,
+    "currentStatus": "Persistent Thermal Source",
+    "lastObserved": "2026-09-28T15:41:00+05:30"
+  },
+  {
+    "siteId": "SITE-076",
+    "facility": "—",
+    "type": "Natural",
+    "state": "Rajasthan",
+    "activeDays": 70,
+    "detections": 68,
+    "currentStatus": "Recorded",
+    "lastObserved": "2026-09-29T15:53:00+05:30"
+  },
+  {
+    "siteId": "SITE-079",
+    "facility": "—",
+    "type": "Natural",
+    "state": "Odisha",
+    "activeDays": 61,
+    "detections": 91,
+    "currentStatus": "Recorded",
+    "lastObserved": "2026-09-29T16:46:00+05:30"
+  },
+  {
+    "siteId": "SITE-082",
+    "facility": "Jamnagar Coal Handling Plant",
+    "type": "Industrial",
+    "state": "Gujarat",
+    "activeDays": 58,
+    "detections": 27,
+    "currentStatus": "Industrial Fire",
+    "lastObserved": "2026-09-26T17:16:00+05:30"
+  },
+  {
+    "siteId": "SITE-085",
+    "facility": "Sundargarh Steel Plant",
+    "type": "Industrial",
+    "state": "Karnataka",
+    "activeDays": 46,
+    "detections": 69,
+    "currentStatus": "Persistent Thermal Source",
+    "lastObserved": "2026-09-28T15:25:00+05:30"
+  },
+  {
+    "siteId": "SITE-088",
+    "facility": "—",
+    "type": "Unknown",
+    "state": "Andhra Pradesh",
+    "activeDays": 79,
+    "detections": 198,
+    "currentStatus": "Analyst Review",
+    "lastObserved": "2026-09-28T09:38:00+05:30"
+  },
+  {
+    "siteId": "SITE-091",
+    "facility": "Angul Thermal Power Station",
+    "type": "Industrial",
+    "state": "Tamil Nadu",
+    "activeDays": 11,
+    "detections": 31,
+    "currentStatus": "Persistent Thermal Source",
+    "lastObserved": "2026-09-26T18:40:00+05:30"
+  },
+  {
+    "siteId": "SITE-094",
+    "facility": "Jajpur Refinery Complex",
+    "type": "Industrial",
+    "state": "Andhra Pradesh",
+    "activeDays": 34,
+    "detections": 212,
+    "currentStatus": "Persistent Thermal Source",
+    "lastObserved": "2026-09-28T19:16:00+05:30"
+  }
+]

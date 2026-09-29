@@ -1,0 +1,48 @@
+[
+  {
+    "id": "E1",
+    "code": "EX-E1",
+    "name": "Long industrial incident",
+    "kind": "long-event",
+    "banner": "EXERCISE — Simulated scenario. Not a real event.",
+    "facilityName": "Simulated Integrated Steel Works",
+    "state": "Odisha (simulated)",
+    "sequence": [
+      "Normal",
+      "Thermal spike",
+      "Abnormal",
+      "Alert",
+      "Long-running incident",
+      "Incident closed"
+    ],
+    "summary": "Demonstrates how a sustained industrial incident stays flagged under the IgnisEye baseline while a plain baseline would reabsorb it and silently drop the alert.",
+    "plainBaselineOutcome": "Alert lost after Day 10 — incident reabsorbed into baseline.",
+    "ignisEyeOutcome": "Alert maintained until incident end."
+  },
+  {
+    "id": "E2",
+    "code": "EX-E2",
+    "name": "Fire approaching facility",
+    "kind": "approach-projection",
+    "banner": "EXERCISE — Simulated scenario. Not a real event.",
+    "facilityName": "Simulated River-side Fertiliser Plant",
+    "state": "Chhattisgarh (simulated)",
+    "fireFrontDirection": "ENE, advancing toward facility perimeter",
+    "distanceKm": 4.6,
+    "indicativeArrivalWindow": "6–9 hours at current observed rate",
+    "conditionalAlert": "Conditional alert — indicative demonstration calculation only, not a calibrated operational prediction.",
+    "disclaimer": "The projection is explicitly an indicative demonstration calculation and is not calibrated operational prediction."
+  },
+  {
+    "id": "E3",
+    "code": "EX-E3",
+    "name": "Unknown source",
+    "kind": "unknown-source",
+    "banner": "EXERCISE — Simulated scenario. Not a real event.",
+    "facilityName": null,
+    "state": "Jharkhand (simulated)",
+    "status": "Unverified source",
+    "action": "Analyst review",
+    "note": "No registered facility match. Demonstrates routing of an unresolved detection to manual review rather than forced classification."
+  }
+]

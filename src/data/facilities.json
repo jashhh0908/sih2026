@@ -1,0 +1,149 @@
+[
+  {
+    "id": "FAC-001",
+    "name": "Sundargarh Steel Plant",
+    "type": "Steel Plant",
+    "state": "Odisha",
+    "district": "Sundargarh",
+    "lat": 22.1149,
+    "lon": 84.0271,
+    "siteIds": [
+      "SITE-003",
+      "SITE-085"
+    ]
+  },
+  {
+    "id": "FAC-002",
+    "name": "Angul Thermal Power Station",
+    "type": "Thermal Power Station",
+    "state": "Odisha",
+    "district": "Angul",
+    "lat": 20.8338,
+    "lon": 85.0926,
+    "siteIds": [
+      "SITE-009",
+      "SITE-091"
+    ]
+  },
+  {
+    "id": "FAC-003",
+    "name": "Jajpur Refinery Complex",
+    "type": "Refinery Complex",
+    "state": "Odisha",
+    "district": "Jajpur",
+    "lat": 20.8529,
+    "lon": 86.3251,
+    "siteIds": [
+      "SITE-017",
+      "SITE-094"
+    ]
+  },
+  {
+    "id": "FAC-004",
+    "name": "Bokaro Cement Works",
+    "type": "Cement Works",
+    "state": "Jharkhand",
+    "district": "Bokaro",
+    "lat": 23.6731,
+    "lon": 86.1386,
+    "siteIds": [
+      "SITE-025"
+    ]
+  },
+  {
+    "id": "FAC-005",
+    "name": "Dhanbad Chemical Complex",
+    "type": "Chemical Complex",
+    "state": "Jharkhand",
+    "district": "Dhanbad",
+    "lat": 23.8044,
+    "lon": 86.422,
+    "siteIds": [
+      "SITE-028"
+    ]
+  },
+  {
+    "id": "FAC-006",
+    "name": "Durg Coal Handling Plant",
+    "type": "Coal Handling Plant",
+    "state": "Chhattisgarh",
+    "district": "Durg",
+    "lat": 21.1938,
+    "lon": 81.293,
+    "siteIds": [
+      "SITE-047"
+    ]
+  },
+  {
+    "id": "FAC-007",
+    "name": "Raipur Steel Plant",
+    "type": "Steel Plant",
+    "state": "Chhattisgarh",
+    "district": "Raipur",
+    "lat": 21.2527,
+    "lon": 81.628,
+    "siteIds": [
+      "SITE-051"
+    ]
+  },
+  {
+    "id": "FAC-008",
+    "name": "Durgapur Thermal Power Station",
+    "type": "Thermal Power Station",
+    "state": "West Bengal",
+    "district": "Durgapur",
+    "lat": 23.5414,
+    "lon": 87.3142,
+    "siteIds": [
+      "SITE-058"
+    ]
+  },
+  {
+    "id": "FAC-009",
+    "name": "Asansol Refinery Complex",
+    "type": "Refinery Complex",
+    "state": "West Bengal",
+    "district": "Asansol",
+    "lat": 23.6909,
+    "lon": 86.9808,
+    "siteIds": [
+      "SITE-063"
+    ]
+  },
+  {
+    "id": "FAC-010",
+    "name": "Chandrapur Cement Works",
+    "type": "Cement Works",
+    "state": "Maharashtra",
+    "district": "Chandrapur",
+    "lat": 19.96,
+    "lon": 79.309,
+    "siteIds": [
+      "SITE-070"
+    ]
+  },
+  {
+    "id": "FAC-011",
+    "name": "Bharuch Chemical Complex",
+    "type": "Chemical Complex",
+    "state": "Gujarat",
+    "district": "Bharuch",
+    "lat": 21.7045,
+    "lon": 72.9704,
+    "siteIds": [
+      "SITE-075"
+    ]
+  },
+  {
+    "id": "FAC-012",
+    "name": "Jamnagar Coal Handling Plant",
+    "type": "Coal Handling Plant",
+    "state": "Gujarat",
+    "district": "Jamnagar",
+    "lat": 22.4801,
+    "lon": 70.0712,
+    "siteIds": [
+      "SITE-082"
+    ]
+  }
+]
